@@ -1,5 +1,5 @@
 
-# Harmony-required
+# Harmony-required [![Build Status](https://travis-ci.org/yorkie/node-harmony-required.png?branch=master)](https://travis-ci.org/yorkie/node-harmony-required)
 
 Help you to check your node process is enable harmony and harmony-generators
 

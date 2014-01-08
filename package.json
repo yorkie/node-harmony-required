@@ -7,5 +7,15 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/yorkie/node-harmony-required"
-	}
+	},
+  "keywords": [
+    "harmony",
+    "es6"
+  ],
+  "scripts": {
+    "test": "tape ./test.js"
+  },
+  "devDependencies": {
+    "tape": "*"
+  }
 }
