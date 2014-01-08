@@ -4,7 +4,7 @@ var useHarmony = process.execArgv.filter(function(item) {
 }).length;
 
 module.exports = function(disableThrowErr) {
-	if (!disableThrowErr && useHarmony > 0)
+	if (!disableThrowErr && useHarmony == 0)
 		throw 'harmony required';
 	else
 		return useHarmony > 0;
