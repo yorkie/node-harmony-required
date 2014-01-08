@@ -11,9 +11,13 @@ $ npm install harmony-required
 
 ### Usage
 
+##### harmony_required(disableThrowErr)
+
 ```js
-require('harmony-required');
+require('harmony-required')();
 ```
+
+`disableThrowErr`: tells this module whether it need to throw error of harmony loss. default is false.
 
 ### LICENSE
 
