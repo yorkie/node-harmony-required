@@ -2,7 +2,7 @@
 	"name": "harmony-required",
 	"description": "Help you to check your node process is enable harmony and harmony-generators", 
 	"author": "Yorkie Neil <yorkiefixer@gmail.com>",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
