@@ -1,13 +1,13 @@
 {
-	"name": "harmony-required",
-	"description": "Help you to check your node process is enable harmony and harmony-generators", 
-	"author": "Yorkie Neil <yorkiefixer@gmail.com>",
-	"version": "1.0.0",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/yorkie/node-harmony-required"
-	},
+  "name": "harmony-required",
+  "description": "Help you to check your node process is enable harmony and harmony-generators", 
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-harmony-required"
+  },
   "keywords": [
     "harmony",
     "es6"
